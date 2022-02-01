@@ -1,0 +1,24 @@
+sudentID,Name,Contact number,Living city
+1/ Amal/ 0778532456/ Malabe
+2/ Chamara/ 071234567/ Liyanwala
+3/ Kasun/ 07612345/ Badulla
+4/ Shaminda/ 07823456/ Rathnapura
+5/ Nimal/ 076567234/ Maharagama
+7/ Sunil/ 078653436/ Gonapola
+8/ Piyal/ 08763536/ Angoda
+9/ Saman/ 08767353/ Malabe
+10/ Nipulul/ 078673538/ Galle
+11/ Ramesh / 078673576/ Mathara
+12/ Gayan/ 078674567/ Polonnaruwa
+13/ Janith / 078673538/ Rathnapura
+14/ Budhdhi/ 078673545/ Badulla
+15/ Nipun/ 078673533/ Ambalangoda
+16/ Narada/ 078673438/ Kurunegala
+17/ Pasindu/ 078674538/ Panadura
+18/ Kalpani/ 078673545/ Hambanthota
+19/ Apsara/ 078673546/ Maharagama
+20/ Gayanthika/ 078673538/ Piliyandala
+21/ Anupama/ 078675438/ Malabe
+22/ Nimesh/ 0786734538/ Kotte
+24/ Mahesha/ 077673538/ Thangalle
+25/ Nuwan/ 078635533/ Gampaha
